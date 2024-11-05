@@ -76,7 +76,7 @@ The final newFileName will look something like report_20240926_113045.pdf, depen
 #### c) Copy the File with the New Name:<br>
 
 <br>
-Now that the new file name has been generated, the file can be copied to the destination folder with the renamed file.<br>
+Now that the new filee name has been generated, the file can be copied to the destination folder with the renamed file.<br>
 Search for the Copy File activity in the Activities panel and drag it into the loop.<br>
 In the From property of Copy File, set it to item (the original file path).<br>
 In the To property, specify the destination folder and the new file name:<br>
